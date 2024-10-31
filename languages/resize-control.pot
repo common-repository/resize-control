@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-04-03 15:15+0200\n"
+"PO-Revision-Date: 2024-04-03 15:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/views/MainTemplate.php:13
+msgid "Control all future uploads"
+msgstr "Beheer al je toekomstige uploads"
+
+#: admin/views/MainTemplate.php:17
+msgid "Mr. Unknown"
+msgstr "Dhr. Onbekend"
+
+#: admin/views/MainTemplate.php:18
+msgid "Free plan"
+msgstr "Gratis plan"
+
+#: admin/views/MainTemplate.php:21
+msgid "Pro plan"
+msgstr "Pro plan"
+
+#: admin/views/MainTemplate.php:36 admin/views/MainTemplate.php:216
+msgid "Per post type"
+msgstr "Per berichttype"
+
+#: admin/views/MainTemplate.php:69
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/views/MainTemplate.php:70
+msgid "Set your global preferences"
+msgstr "Stel je globale voorkeuren in"
+
+#: admin/views/MainTemplate.php:72 admin/views/MainTemplate.php:386
+#: admin/views/forms/PerPostType.php:10 admin/views/forms/PerPostType.php:153
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/views/MainTemplate.php:76
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/views/MainTemplate.php:80
+msgid "Ignore roles"
+msgstr "Rollen negeren"
+
+#: admin/views/MainTemplate.php:137
+msgid "Enable resize"
+msgstr "Activeer resize"
+
+#: admin/views/MainTemplate.php:154
+msgid "License"
+msgstr "Licentie"
+
+#: admin/views/MainTemplate.php:159
+msgid "License key"
+msgstr "Licentie sleutel"
+
+#: admin/views/MainTemplate.php:177
+msgid "Active"
+msgstr "Actief"
+
+#: admin/views/MainTemplate.php:178
+msgid "Your code is valid until"
+msgstr "Je code is geldig tot"
+
+#: admin/views/MainTemplate.php:195
+msgid "Upgrade to pro"
+msgstr "Upgrade naar pro"
+
+#: admin/views/MainTemplate.php:196
+msgid "Coming soon"
+msgstr "Coming soon"
+
+#: admin/views/MainTemplate.php:198 admin/views/MainTemplate.php:371
+msgid "Convert any image automaticly to JPG or WEBP"
+msgstr "Converteer elke afbeelding automatisch naar JPG of WEBP"
+
+#: admin/views/MainTemplate.php:199 admin/views/MainTemplate.php:372
+msgid "Cover, contain, fill and scale down resize method"
+msgstr "Cover, contain, fill en scale down resize methode"
+
+#: admin/views/MainTemplate.php:200 admin/views/MainTemplate.php:373
+msgid "Set default background colors for resizing"
+msgstr "Stel standaard achtergrondkleuren in voor resizing"
+
+#: admin/views/MainTemplate.php:201 admin/views/MainTemplate.php:374
+msgid "Resize contol per post type"
+msgstr "Resize control per berichttype"
+
+#: admin/views/MainTemplate.php:203 admin/views/MainTemplate.php:376
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: admin/views/MainTemplate.php:217
+msgid "Select your resize settings per post type"
+msgstr "Selecteer je resize instellingen per berichttype"
+
+#: admin/views/MainTemplate.php:234
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/views/MainTemplate.php:327
+msgid "Enable different resizing for this posttype"
+msgstr "Activeer andere resizing voor dit berichttype"
+
+#: admin/views/MainTemplate.php:335
+msgid "Please, connect your license to change other posttypes."
+msgstr "Verbind je licentie om andere berichttypes te wijzigen."
+
+#: admin/views/MainTemplate.php:358
+msgid "Posts"
+msgstr "Berichten"
+
+#: admin/views/forms/PerPostType.php:7
+msgid "Default resize settings"
+msgstr "Standaard resize instellingen"
+
+#: admin/views/forms/PerPostType.php:8
+msgid "Select your resize settings for all post types"
+msgstr "Selecteer je resize instellingen voor alle berichttypes"
+
+#: admin/views/forms/PerPostType.php:14
+msgid "Resize"
+msgstr "Resize"
+
+#: admin/views/forms/PerPostType.php:17
+msgid "Image dimensions"
+msgstr "Afbeeldingsgrootte"
+
+#: admin/views/forms/PerPostType.php:62
+msgid "Resize dimensions"
+msgstr "Activeer aangepaste grootte"
+
+#: admin/views/forms/PerPostType.php:76
+msgid "Resize method"
+msgstr "Resize methode"
+
+#: admin/views/forms/PerPostType.php:91
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: admin/views/forms/PerPostType.php:103
+msgid "Convert/compress"
+msgstr "Converteren/comprimeren"
+
+#: admin/views/forms/PerPostType.php:113
+msgid "Convert all to file format"
+msgstr "Converteer alles naar bestandstype"
+
+#: admin/views/forms/PerPostType.php:129
+msgid "Convert PNG to JPG"
+msgstr "Converteer PNG naar JPG"
+
+#: admin/views/forms/PerPostType.php:136
+msgid "Compression level"
+msgstr "Compressie niveau"
+
+#, fuzzy
+#~| msgid "License"
+#~ msgid "Licensed plan"
+#~ msgstr "Licentie"
+
+#~ msgid "%i minutes"
+#~ msgstr "%i minuten"
+
+#~ msgid "Add New"
+#~ msgstr "Voeg toe"
+
+#~ msgid "Add New Vacancy"
+#~ msgstr "Voeg nieuwe vacature toe"
+
+#~ msgid "All Vacancies"
+#~ msgstr "Alle vacatures"
+
+#~ msgid "Application redirect URL"
+#~ msgstr "Redirect locatie na sollicitatie"
+
+#~ msgid "Blub Recruitee"
+#~ msgstr "Blub Recruitee"
+
+#~ msgid "Edit Vacancy"
+#~ msgstr "Bewerk vacature"
+
+#~ msgid "File uploads are 10MB max"
+#~ msgstr "Bestand uploads zijn maximaal 10MB"
+
+#~ msgid "Not Found"
+#~ msgstr "Niet gevonden"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "Niet gevonden in de prullenbak"
+
+#~ msgid "Optional <span style=\"font-size: .8em; display: block; font-weight: 400; padding-top: 5px;\">Keep empty to have defaults</span>"
+#~ msgstr "Optioneel <span style=\"font-size: .8em; display: block; font-weight: 400; padding-top: 5px;\">Laat leeg om de standaard waarde te gebruiken</span>"
+
+#~ msgid "Recruitee domain"
+#~ msgstr "Recruitee domein"
+
+#~ msgid "Search Vacancy"
+#~ msgstr "Zoek vacature"
+
+#~ msgid "Submit"
+#~ msgstr "Verzenden"
+
+#~ msgid "This URL is not valid"
+#~ msgstr "Dit is geen geldige URL"
+
+#~ msgid "Update Vacancy"
+#~ msgstr "Vacature bijwerken"
+
+#~ msgid "Vacancies"
+#~ msgstr "Vacatures"
+
+#~ msgid "Vacancy"
+#~ msgstr "Vacature"
+
+#~ msgid "View Vacancy"
+#~ msgstr "Bekijk vacature"
+
+#~ msgid "vacancies"
+#~ msgstr "vacatures"
